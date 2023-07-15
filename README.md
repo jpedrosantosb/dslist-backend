@@ -8,7 +8,11 @@
 - Database seeding
 - Padrão camadas
 - Controller, service, repository
-- Padrão DTO# dslist-backend
+- Padrão DTO
+- Relacionamentos N-N
+- Classe de associação, embedded id
+- Consultas SQL no Spring Data JPA
+- Projections
 
 ## Modelo de domínio DSList
 
